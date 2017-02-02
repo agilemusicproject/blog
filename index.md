@@ -2,4 +2,4 @@
 
 Welcome to the blog!
 
-[Link to a test page](test)
+[Link to a test page](test.md)
